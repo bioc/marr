@@ -1,17 +1,21 @@
-# marr 1.1.2 (devel 3.13)
+# marr 1.1.2
+(devel 3.13)
 
 * added feature-label output on May 10, 2021
 
-# marr 1.00.03 (Release 3.12)
+# marr 1.00.03
+(Release 3.12)
 
 * added feature-label output on April 27, 2021
 
 
-# marr 1.00.02 (Release 3.12)
+# marr 1.00.02
+(Release 3.12)
 
 * added cutoff value on March 06, 2021
 
-# marr 1.1.1 (devel)
+# marr 1.1.1
+(devel)
 
 
 * hard-coding of alpha fixed on December 21, 2020.
